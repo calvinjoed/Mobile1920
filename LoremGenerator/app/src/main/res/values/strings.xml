@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Lorem Generator</string>
+    <string name="title_text">Lorem Generator</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="lorem_text">Lorem ipsum dolor sit amet,
+        \nconsectetur adipiscing elit,
+        \nsed do eiusmod tempor
+        \nincididunt ut labore et dolore magna aliqua.
+        \n Ut enim ad minim veniam,
+        \nquis nostrud exercitation
+        \nullamco laboris nisi ut aliquip
+        \nex ea commodo consequat.
+        \nDuis aute irure dolor in
+        \nreprehenderit in voluptate velit
+        \nesse cillum dolore eu fugiat
+        \nnulla pariatur. Excepteur
+        \nsint occaecat cupidatat non
+        \nproident, sunt in culpa qui
+        \nofficia deserunt mollit
+        \nanim id est laborum.</string>
+    <string name="creator_button">Confirm</string>
+    <string name="creator_fill">Created by Me</string>
+    <string name="creator_text">COT</string>
+</resources>
